@@ -19,8 +19,10 @@ To be Runned in Mysql Command Line:
 <br>
 3.create database typetest;
 <br>
-4.create table tt(SrNo int auto_increment primary key,Name varchar(30),WPM int,Accuracy int);
+4.use typetest;
+<br>
+5.create table tt(SrNo int auto_increment primary key,Name varchar(30),WPM int,Accuracy int);
 <br>
 Changes to be made in Code:
 <br>
-5.Assign the value of your Mysql password to the variable pwd
+6.Assign the value of your Mysql password to the variable pwd
