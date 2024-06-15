@@ -26,3 +26,5 @@ To be Runned in Mysql Command Line:
 Changes to be made in Code:
 <br>
 6.Assign the value of your Mysql password to the variable pwd
+<br>
+![](Entry-Menu.png)
